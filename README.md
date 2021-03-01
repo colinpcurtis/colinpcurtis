@@ -5,18 +5,18 @@ I'm a sophomore at UCLA where I study math and CS.
 - 🔭 I’m currently working on **image translational GANS and algotrading**
 - 🌱 I’m currently learning **PyTorch and Go**
 - 📫 How to reach me: **[email](mailto:colinpcurtis826@ucla.edu)**
-- ⚡ Fun fact: **I'm a lifelong lifelong sailor**
-
+- ⚡ Fun fact: **lifelong sailor**
 
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/code-TensorFlow?style=flat&logo=TensorFlow&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/code-PyTorch?style=flat&logo=PyTorch&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 ## &#x1f4c8; GitHub Stats
 
