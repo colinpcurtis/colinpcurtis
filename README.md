@@ -1,9 +1,9 @@
 <h2 align="center">👋 Hello! I'm Colin</h2>
 
-I'm a sophomore at UCLA where I study math and CS.
+I'm a sophomore at UCLA where I study math and CS.  
 
-- 🔭 I’m currently working on **image translational GANS and algotrading**
-- 🌱 I’m currently learning **PyTorch and Go**
+- 🔭 I’m currently working on: **image translational GANS and algotrading**
+- 🌱 I’m currently learning: **NLP and Node**
 - 📫 How to reach me: **[email](mailto:colinpcurtis826@ucla.edu)**
 - ⚡ Fun fact: **lifelong sailor**
 
@@ -16,9 +16,10 @@ I'm a sophomore at UCLA where I study math and CS.
 ![](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
 ![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white)
-![](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+
+<!-- ![](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white) -->
+<!-- ![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white) -->
 
 
 ## &#x1f4c8; GitHub Stats
