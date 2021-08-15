@@ -29,7 +29,7 @@ I'm a sophomore at UCLA where I study math and CS.
 </a>
 
 <a href="https://github.com/colinpcurtis">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinpcurtis&hide=jupyter%20notebook&count_private=false&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&layout=compact" alt="Colin's GitHub Stats" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinpcurtis&hide=jupyter%20notebook&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&layout=compact" alt="Colin's GitHub Stats" />
 </a>
 
 
