@@ -1,11 +1,12 @@
 <h2 align="center">👋 Hello! I'm Colin</h2>
 
-I'm a sophomore at UCLA where I study math and CS.  
+I'm a sophomore at UCLA where I study math and CS.  I'm mainly interested in full stack software engineering, ML engineering, and DevOps.  Outside of class, I lead the Research Team at DataRes@UCLA where we focus on applying cutting edge deep learning to solve novel problems.
 
-- 🔭 I’m currently working on: **image translational GANS and algotrading**
-- 🌱 I’m currently learning: **NLP and Node**
-- 📫 How to reach me: **[email](mailto:colinpcurtis826@ucla.edu)**
-- ⚡ Fun fact: **lifelong sailor**
+- 🔭 I’m currently working on: text generation with GPT-2 and algotrading
+- 🤔 My top skills are Python, NodeJS, React, and Kubernetes
+- 🌱 I’m currently learning: Golang for backend development
+- 📫 How to reach me: **[colinpcurtis826@ucla.edu](mailto:colinpcurtis826@ucla.edu)**
+- ⚡ Fun fact: treasurer of the UCLA Saling team
 
 ## 🔧 Technologies & Tools
 
@@ -42,7 +43,7 @@ I'm a sophomore at UCLA where I study math and CS.
 
 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
