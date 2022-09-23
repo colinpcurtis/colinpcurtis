@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Colin</h2>
 
-I'm a junior at UCLA where I study math and CS.  I'm mainly interested in full stack software engineering, ML engineering, and DevOps.  Outside of class, I lead the Research Team at DataRes@UCLA where we focus on applying cutting edge deep learning to solve novel problems.
+I'm a senior at UCLA where I study math and CS.  I'm mainly interested in backend software engineering, ML engineering, and DevOps.  Outside of class, I'm the Co-President at DataRes@UCLA where we aim to make data science available for all.
 
 - 🔭 I’m currently working on: building some webapps to improve my frontend, backend, and systems design skills
 - 🔬 My top skills are Python, Node.js, React, and AWS
