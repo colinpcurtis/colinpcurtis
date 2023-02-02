@@ -6,7 +6,7 @@ I'm a senior at UCLA where I study math and CS.  I'm mainly interested in backen
 - 🔬 My top skills are Python, Node.js, React, and AWS (Lambda, EC2, DynamoDB, S3)
 - 🌱 I’m currently learning: Rust! It's a pretty slow process but I'm getting there
 - 📫 How to reach me: **[colinpcurtis826@ucla.edu](mailto:colinpcurtis826@ucla.edu)**
-- ⚡ Fun fact: I run a mini bakery for students at UCLA.  Our website is [bussin-bread](https://bussin-bread.com/), and I also have a food blog [blog.bussin-bread.com](https://blog.bussin-bread.com/)
+- ⚡ Fun fact: I have a food blog where I write about my experiences baking naturally leavened bread and other cooking topics [bussin-bread.com](https://bussin-bread.com/)
 
 ## 🔧 Technologies & Tools
 These are the technologies I'm most proficient in and enjoy using the most, in no particular order.  Most of my experience lies in backend development with Node.js and Python, where I've worked with MongoDB, Postgres, and Prisma, and I also enjoy React for my frontend work.  My flavor of choice when it comes to cloud deployments is AWS EC2 and NGINX, and I also have experience working with Kubernetes to scale compute intensive deep learning deployments.  
